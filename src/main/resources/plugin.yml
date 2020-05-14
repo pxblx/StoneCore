@@ -1,0 +1,9 @@
+name: StoneCore
+version: 1.0.0-SNAPSHOT
+author: pxblx
+main: es.stoneland.stonecore.StoneCore
+api-version: 1.15
+commands:
+  test:
+    description: Comando test.
+    usage: /<command>
